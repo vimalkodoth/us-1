@@ -34,7 +34,7 @@ export default function Home() {
     <div className="min-h-screen bg-green-100 flex items-center justify-center p-4">
       <Card className="w-full max-w-3xl bg-white shadow-xl">
         <CardHeader className="bg-green-500 text-white">
-          <CardTitle className="text-3xl font-bold text-center">The Golden State's Trumped-Up Treasury <br/> CA : DPGPZXEVh8XEtxpzzdhx6QiPRf3HFuUCwAUrDUg9pump</CardTitle>
+          <CardTitle className="text-3xl font-bold text-center">The Golden State's Trumped-Up Treasury <br/> <span style={{fontSize: 24}}>CA : DPGPZXEVh8XEtxpzzdhx6QiPRf3HFuUCwAUrDUg9pump</span></CardTitle>
         </CardHeader>
         <CardContent className="p-6">
           <div className="mb-6">

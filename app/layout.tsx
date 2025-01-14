@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: "CA's Trumped-Up Treasury - Making Dollars Great Again!",
-  description: 'Explore our hilarious collection of Trump-themed dollar bills. California has never been so entertained!',
+  title: "USE $1 - Trumped-Up Treasury; Making Dollars Great Again!",
+  description: 'Just USE$1',
 }
 
 export default function RootLayout({

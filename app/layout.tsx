@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: "USE $1 - Trumped-Up Treasury; Making Dollars Great Again!",
-  description: 'Just USE$1',
+  description: 'Just USE1$',
 }
 
 export default function RootLayout({

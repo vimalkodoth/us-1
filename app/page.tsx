@@ -68,9 +68,9 @@ export default function Home() {
           </div>
 
           <div className="text-center">
-            <h2 className="text-2xl font-bold mb-2">Even ‘Chyyyy-na’ can buy it!. Just USE$1.</h2>
+            <h2 className="text-2xl font-bold mb-2">Even ‘Chyyyy-na’ can buy it!. Just USE1$.</h2>
             <p className="text-gray-600">
-            It’s called USE$1. Even Chyyyy-na can buy it. Just one dollar, folks. One dollar! Believe me, it’s the best deal. Tremendous!
+            It’s called USE1$. Even Chyyyy-na can buy it. Just one dollar, folks. One dollar! Believe me, it’s the best deal. Tremendous!
             </p>
           </div>
         </CardContent>
